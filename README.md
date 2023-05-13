@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my skills<br>🌱 I’m currently learning python and following DevOps roadmap<br>⚡ Fun fact I can wake up at any time without alarm clock
+🔭 I’m currently working on my skills<br>🌱 I’m currently learning Python and following the DevOps roadmap<br>⚡ Fun fact I can wake up at any time without an alarm clock
 
 
 ## 🌐 Socials:
@@ -15,8 +15,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+### 😂 You scrolled down this far, so here's my Favorite Dev Meme
+<img src="https://i.chzbgr.com/original/14732037/hDE6A9508/software-developer-nerdy-memes-geeky-memes-relatable-memes-funny-memes-memes-lol-programming-memes"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Shreyash2137&icon=7&color=0)](https://visitcount.itsvg.in)
